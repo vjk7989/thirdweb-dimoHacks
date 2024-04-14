@@ -4,3 +4,8 @@ Transaction ids for verification -
 
 
 ![image](https://github.com/vjk7989/thirdweb-dimoHacks/assets/92521801/655be8fd-c25a-46d5-82d5-047004381c30)
+
+
+**Push Notifications**
+![image](https://github.com/vjk7989/thirdweb-dimoHacks/assets/92521801/6b2ec669-9ac5-4ed3-87e7-e7f56785a05d)
+
