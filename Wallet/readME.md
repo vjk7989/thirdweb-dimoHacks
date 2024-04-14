@@ -1,0 +1,1 @@
+Wallet used in application
