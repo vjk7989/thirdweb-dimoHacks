@@ -1,12 +1,12 @@
 https://github.com/vjk7989/DimoDEploy
 
 ## (deployed version with id, if unable to login dowload the zip and try)
- '''
- npm i 
- '''
- '''
- npm run dev 
- '''
+```javascript
+npm i
+```
+ ```javascript
+npm run dev
+```
 
 
 Transaction ids for verification - 
