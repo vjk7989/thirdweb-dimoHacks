@@ -1,6 +1,6 @@
 https://github.com/vjk7989/DimoDEploy
 
-## (deployed version with id, if unable to login dowload the zip and try)
+## (deployed version with credentials, if unable to login, clone the repo and try locally)
 ```javascript
 npm i
 ```
